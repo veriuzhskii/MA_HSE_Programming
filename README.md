@@ -1,2 +1,2 @@
 # ma_hse_programming
-For my master degree programming class
+For my masters degree programming class
