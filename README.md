@@ -1,5 +1,9 @@
 # MA_HSE_Programming
-HSE SPB
+
+HSE SPB 
+
 Introduction to programming
+
 Artem Veriuzhskii
+
 2024
